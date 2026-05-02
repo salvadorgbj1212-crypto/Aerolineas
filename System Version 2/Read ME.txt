@@ -1,0 +1,11 @@
+Sistema mejorado de la primera versión, este incluye parches y mejoras como:
+- Sistema completo y funcional
+- Parches de validación
+- Mejor interacción a los inputs
+Pronto seguiré mejorando el sistema para verse y funcionar mejor
+Estado: Parcialmente terminado
+- Posibles mejoras a futuro:
+- Integración de base de datos que registre usuarios mejor
+- Un mejor sistema de validación
+Fecha de Creación: 7/2/2026
+Autor: HaxVi.

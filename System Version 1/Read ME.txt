@@ -1,0 +1,8 @@
+Sistema que simula una aerolínea a la hora de reservar un vuelo.
+CONTRAS: 
+- Sistema no terminado: Este programa no ha sido terminado, pronto sacaré una versión terminada
+- Validación vaga
+- Bastantes bugs
+Estado: No terminado
+Fecha de Creación: 6/2/2026
+Autor: HaxVi
